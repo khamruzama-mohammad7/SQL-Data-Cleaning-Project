@@ -85,7 +85,7 @@ Performed SQL queries to explore the cleaned dataset and identify patterns, incl
 
 ## 👨‍💻 Author
 
-**Khamruzzama**
+**Khamruzama**
 
 B.Tech in Information Technology | 2026
 
